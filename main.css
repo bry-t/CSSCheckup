@@ -1,0 +1,13 @@
+#title-1{
+    color: #a2e7cd;
+    background-color: darkgray;
+}
+
+.wrapper{
+    background-color: lightgray;
+}
+
+.wrapper h1{
+    font-weight: bold;
+    font-size: 36px;
+}
